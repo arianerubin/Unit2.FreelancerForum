@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  background-color: white;
+  font-family: verdana;
+  margin: 0;
+}
+
+.container {
+  width: 30%;
+  border: 1px solid rgb(38, 146, 32);
+  padding: 20px;
+  background-color: #ffffff8b;
+  margin: 20px auto;
+  margin-top: 10%;
+}
+
+h1 {
+  font-size: 30px;
+  color: green;
+}
+
+#freelancers-list {
+  margin-top: 30px;
+  text-align: left;
+}
+
+.freelancer {
+  padding: 10px;
+  background-color: #dff4e6;
+}
+
+#avg-price {
+  font-weight: bold;
+  color: #59b24d;
+}
